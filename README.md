@@ -11,19 +11,9 @@
 - 🛡️ Interested in **Cyber Security** and network safety.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- **Tools & IDEs:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-  ![Spyder](https://img.shields.io/badge/Spyder-FF0000.svg?style=for-the-badge&logo=spyder%20ide&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hhasanaslan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhasanaslan&layout=compact&theme=tokyonight" />
-</p>
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Focus Areas:** ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
+- **Tools & IDEs:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-FF0000.svg?style=for-the-badge&logo=spyder%20ide&logoColor=white) ![Fritzing](https://img.shields.io/badge/Fritzing-19817C.svg?style=for-the-badge&logo=fritzing&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Hüseyin Hasan Aslan](https://www.linkedin.com/in/huseyin-hasan-aslan-723b8132a)
