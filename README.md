@@ -27,4 +27,4 @@
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Hüseyin Hasan Aslan](https://www.linkedin.com/in/huseyin-hasan-aslan-723b8132a)
-- **Email:** [haslan23@ku.edu.tr](mailto:haslan23@ku.edu.tr)
+- **Email:** [huseyinhasanaslan@hotmail.com](mailto:huseyinhasanaslan@hotmail.com)
