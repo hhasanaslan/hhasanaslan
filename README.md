@@ -7,8 +7,8 @@
 ### 🎓 About Me
 - 🏛️ **Computer Science Student** at **Koç University**.
 - 💻 Currently diving deep into **Data Structures, Algorithms**, and **Object-Oriented Programming**.
-- 🚀 Passionate about software development and solving complex problems.
-- 📚 Pursuing prestigious certifications on **Coursera** to enhance my technical skills.
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**.
+- 🛡️ Interested in **Cyber Security** and network safety.
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
